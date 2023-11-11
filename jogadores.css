@@ -12,7 +12,7 @@
 }
 
 .lootie {
-    padding-left: 37%;
+    padding-left: 38%;
     width:60px; 
     height:60px
 }
@@ -70,4 +70,18 @@ nav a:hover {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
+}
+
+.jogadores li {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000000;
+    box-sizing: border-box;
+    padding: 45px 40px;
+    margin: 0 40%;
+    vertical-align: top;
+    width: 30%;
+    text-align: center;
+    display: inline-block
 }
