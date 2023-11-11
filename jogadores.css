@@ -78,10 +78,10 @@ nav a:hover {
     border-width: 2px;
     border-color: #000000;
     box-sizing: border-box;
-    padding: 50px 40px;
+    padding: 45px 30px;
     margin: 0 1.2%;
     vertical-align: top;
-    width: 30%;
+    width: 28%;
     text-align: center;
     display: inline-block
 }
