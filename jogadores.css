@@ -80,8 +80,7 @@ nav a:hover {
     box-sizing: border-box;
     padding: 50px 50px;
     margin: 0 1.5%;
-    vertical-align: top;
     width: 60%;
     text-align: center;
-    display: inline
+    display: inline-block
 }
