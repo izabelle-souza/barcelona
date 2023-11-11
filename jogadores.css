@@ -22,14 +22,14 @@
 }
 
 .principal {
-    padding: 4px;
+    padding: 3px;
 }
 
 .barcelona {
     width: 75px;
     height: 75px;
     background: transparent;
-    bottom: 75px;
+    bottom: 80px;
 }
 
 nav {
