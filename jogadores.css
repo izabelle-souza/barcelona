@@ -85,3 +85,25 @@ nav a:hover {
     text-align: center;
     display: inline-block
 }
+
+.produtos li:hover {
+    border-color: #af001d
+}
+
+
+.produtos li:active {
+    border-color: blue;
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
