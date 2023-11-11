@@ -71,3 +71,17 @@ nav a:hover {
     margin: 0 auto;
     padding: 50px 0;
 }
+
+.jogadores li {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000000;
+    box-sizing: border-box;
+    padding: 45px 40px;
+    margin: 0 1.5%;
+    vertical-align: top;
+    width: 30%;
+    text-align: center;
+    display: inline-block
+}
